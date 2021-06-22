@@ -21,7 +21,7 @@
 
 <p align="center">
  <a href="https://github.com/AvinashBolleddula/Exploring-Hackers-News-Posts">
-  <img src="Hacker News.png" alt="Logo" width="250" height="125">
+  <img src="Hacker News.png" alt="Logo" width="1250" height="425">
  </a>
  <h3 align="center">Exploring Hackers News Posts.</h3>
  <p align="center">
